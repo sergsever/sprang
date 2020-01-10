@@ -1,0 +1,18 @@
+div.All{
+width: 70%;
+heigth: 500px;
+align: center;
+text-align: center;
+border: 1px solid green;
+}
+div.Emps {
+align: center;
+width: 80%;
+height: 300px;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 25px;
+align: center;
+text-align: "center";
+border: 1px solid blue;
+}
